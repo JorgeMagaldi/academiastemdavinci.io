@@ -62,6 +62,7 @@ body {
     height: auto;
     border: 1px solid #ddd; /* Borde alrededor de las imágenes */
     border-radius: 5px;
+    display: inline-table;
 }
 
 .item .info {
